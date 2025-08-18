@@ -1,2 +1,2 @@
-# tcym_tpf_modelado_muro
+# Trabajo Práctico Final - TCyM - FIUBA - Jarzyna Agustín
 Modelado térmico dinámico de muros opacos en edificios climatizados
