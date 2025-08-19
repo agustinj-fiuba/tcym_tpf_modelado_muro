@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 customtkinter
 matplotlib
 numpy
 fipy
+=======
+customtkinter
+matplotlib
+numpy
+fipy
+>>>>>>> eedad3d08c27edbca3f97c278c7ca27170132576
 scipy
