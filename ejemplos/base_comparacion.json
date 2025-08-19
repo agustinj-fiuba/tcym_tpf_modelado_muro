@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "nombre": "Muro base",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    }
+]

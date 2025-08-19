@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1,
+        "nombre": "Pared liviana",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 800,
+                "calor_especifico": 500,
+                "conductividad": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Pared mediana",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1000,
+                "calor_especifico": 800,
+                "conductividad": 1
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Pared pesada",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 2000,
+                "calor_especifico": 1000,
+                "conductividad": 1
+            }
+        ]
+    }
+]

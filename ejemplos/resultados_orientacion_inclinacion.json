@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "nombre": "Muro vertical, 0° N",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "Muro vertical, 90° N",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 90,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "Muro vertical, 180° N",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 180,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "Muro vertical, 270° N",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 270,
+        "inclinacion": 90,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "Muro horizontal",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -40,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": 30,
+        "rango_temperatura_exterior": 10,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    }
+]

@@ -1,0 +1,117 @@
+[
+    {
+        "id": 1,
+        "nombre": "-10°C, 60°",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": 60,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": -10,
+        "rango_temperatura_exterior": 5,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombre": "15°C, 30°",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": 30,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": 15,
+        "rango_temperatura_exterior": 5,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nombre": "25°C, 0°",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": 0,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": 25,
+        "rango_temperatura_exterior": 5,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nombre": "20°C, -30°",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -30,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": 20,
+        "rango_temperatura_exterior": 5,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nombre": "5°C, -60°",
+        "fecha": "21/1",
+        "zona_horaria": -3,
+        "latitud": -60,
+        "orientacion": 0,
+        "inclinacion": 0,
+        "temperatura_exterior": 5,
+        "rango_temperatura_exterior": 5,
+        "temperatura_interior": 20,
+        "coeficiente_conveccion_exterior": 10,
+        "coeficiente_conveccion_interior": 10,
+        "n_capas": 1,
+        "capas": [
+            {
+                "espesor": 100,
+                "densidad": 1920,
+                "calor_especifico": 790,
+                "conductividad": 0.89
+            }
+        ]
+    }
+]
